@@ -1,4 +1,4 @@
-# Hey, I'm Harley 👋
+# Hey, I'm Jarod 👋
 
 💻 Web Application Development Student  
 🌱 Lifelong Learner | Problem Solver | Tech Enthusiast  
