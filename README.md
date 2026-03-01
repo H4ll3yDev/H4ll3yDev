@@ -1,5 +1,8 @@
 # Hey, I'm Jarod 👋
 
+<img src="https://imgur.com/mQA9Nvo" width="500"/>
+
+
 💻 Web Application Development Student  
 🌱 Lifelong Learner | Problem Solver | Tech Enthusiast  
 
