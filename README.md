@@ -1,6 +1,6 @@
 # Hey, I'm Jarod 👋
 
-![Banner](https://i.imgur.com/mQA9Nvo.jpeg)
+![Banner](https://i.imgur.com/eeukEkK.png)
 
 
 💻 Web Application Development Student  
